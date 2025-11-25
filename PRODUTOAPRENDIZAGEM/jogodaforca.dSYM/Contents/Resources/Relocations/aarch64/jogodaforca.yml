@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/hermes/Downloads/Atividade/Teste Exercicios c/PRODUTOAPRENDIZAGEM/jogodaforca'
+relocations:     []
+...
